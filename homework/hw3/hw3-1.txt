@@ -1,0 +1,6 @@
+val all = fn: int * string list -> string list
+
+val f = fn: 'a * int -> int
+val funny = fn: ('a * int -> int) * 'a list -> int
+
+fn: 'b -> string
